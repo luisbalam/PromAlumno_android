@@ -1,0 +1,12 @@
+<resources>
+    <!--Cadenas de texto de la aplicación-->
+    <string name="app_name">Promedio del Alumno</string>
+    <string name="titulo">Calificaciones</string>
+    <string name="mat1">Matemáticas</string>
+    <string name="mat2">Física</string>
+    <string name="mat3">Química</string>
+    <string name="btn">Evaluar</string>
+    <string name="btn2">Limpiar</string>
+    <string name="firma">Profesor Luis Balam</string>
+    <string name="msj">Primero ingresa los valores</string>
+</resources>
